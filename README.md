@@ -1,6 +1,6 @@
 <div align="center">
 
-![Codember](./assets/codember.webp)
+![Codember](./codember.webp)
 
 # :technologist: [Codember Solutions](https://codember.dev)
 
